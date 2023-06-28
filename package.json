@@ -1,0 +1,19 @@
+{
+  "name": "daylory",
+  "version": "1.0.0",
+  "description": "Node.js library for the Daylory API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ignaciorodrigues1@github.com/ignaciorodrigues1/daylory-node.git"
+  },
+  "author": "Ignacio Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignaciorodrigues1/daylory-node/issues"
+  },
+  "homepage": "https://github.com/ignaciorodrigues1/daylory-node#readme"
+}
